@@ -1,4 +1,4 @@
-{
+def nyc_pigeon_data = {
   "Theo" => {
     :color => ["purple", "grey"],
     :gender => ["male"],
@@ -56,6 +56,6 @@ def pigeon_data = {
 }
 end 
 
-def nyc_pigeon_organizer(data)
+def nyc_pigeon_organizer(pigeon_data)
  
 end

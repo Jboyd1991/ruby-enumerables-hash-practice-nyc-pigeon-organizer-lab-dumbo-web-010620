@@ -1,4 +1,4 @@
-def nyc_pigeon_data = {
+{
   "Theo" => {
     :color => ["purple", "grey"],
     :gender => ["male"],
